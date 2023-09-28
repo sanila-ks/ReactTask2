@@ -19,4 +19,4 @@ This project is a template for building a React web application UI framework wit
    npm start
 
    # ------
-   or just dounload the code zip file and install dependencies
+   or just download the code zip file and install dependencies
